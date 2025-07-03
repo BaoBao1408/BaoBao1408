@@ -13,10 +13,8 @@
 - 💼 [[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-nguy%E1%BB%85n-6459a6307/)]
 - 🎥 [[FaceBook](https://www.facebook.com/quocbao.nguyen.98031/)]
 
-### 🧰 Tools I Use:
-`Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
-
 ### 🧰 Languages and Tools
+`Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
