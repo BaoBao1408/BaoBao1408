@@ -14,6 +14,15 @@ I'm a passionate Data Engineer working with both Azure and AWS. I love turning r
 
 ### 🧰 Tools I Use:
 `Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
+</p>
 <!--
 Here are some ideas to get you started:
 
