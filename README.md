@@ -9,7 +9,7 @@
 - [📥 CV (Google Drive)](https://drive.google.com/file/d/.../view)
 
 ### 📫 Connect with me:
-- 📧 baoquocngueyn1408@gmail.com
+- 📧 baoquocnguyen1408@gmail.com
 - 💼 [[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-nguy%E1%BB%85n-6459a6307/)]
 - 🎥 [[FaceBook](https://www.facebook.com/quocbao.nguyen.98031/)]
 
