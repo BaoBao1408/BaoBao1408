@@ -4,11 +4,11 @@
 I'm a passionate Data Engineer working with both Azure and AWS. I love turning raw data into business insights using tools like Databricks, Delta Lake, Power BI, Redshift, Glue, and more.
 
 ### 📌 Portfolio & Resume
-- [[📄 My Notion Portfolio]((https://oxidized-blender-70a.notion.site/This-is-Nguyen-Quoc-Bao-2176c93550c180c2a56dc5ba686c5750))]
+- [[[📄 My Notion Portfolio](https://oxidized-blender-70a.notion.site/This-is-Nguyen-Quoc-Bao-2176c93550c180c2a56dc5ba686c5750)]]
 - [📥 CV (Google Drive)](https://drive.google.com/file/d/.../view)
 
 ### 📫 Connect with me:
-- 📧 quocbao.nguyen.98031@gmail.com
+- 📧 baoquocngueyn1408@gmail.com
 - 💼 [LinkedIn]([https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-nguy%E1%BB%85n-6459a6307/])
 - 🎥 [FaceBook]((https://www.facebook.com/quocbao.nguyen.98031/))
 
