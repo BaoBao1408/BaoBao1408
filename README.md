@@ -25,5 +25,4 @@ I'm a passionate Data Engineer working with both Azure and AWS. I love turning r
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
 </p>
 
-### 🧑‍💻 What I do:
-<img src="https://raw.githubusercontent.com/BaoBao1408/BaoBao1408/main/assets/developer.png" width="350"/>
+
