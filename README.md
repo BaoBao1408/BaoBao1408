@@ -14,6 +14,7 @@ I'm a passionate Data Engineer working with both Azure and AWS. I love turning r
 
 ### 🧰 Tools I Use:
 `Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
+
 ### 🧰 Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
@@ -23,10 +24,6 @@ I'm a passionate Data Engineer working with both Azure and AWS. I love turning r
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
 </p>
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Azure and AWS enviroment
-- 🌱 I’m currently learning AWS process
-- 👯 I’m looking to collaborate on Data Engineer job
--->
+### 🧑‍💻 What I do:
+<img src="https://raw.githubusercontent.com/BaoBao1408/BaoBao1408/main/assets/developer.png" width="350"/>
