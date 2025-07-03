@@ -10,7 +10,7 @@ I'm a passionate Data Engineer working with both Azure and AWS. I love turning r
 ### 📫 Connect with me:
 - 📧 baoquocngueyn1408@gmail.com
 - 💼 [[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-nguy%E1%BB%85n-6459a6307/)]
-- 🎥 [[FaceBook]((https://www.facebook.com/quocbao.nguyen.98031/))]
+- 🎥 [[FaceBook](https://www.facebook.com/quocbao.nguyen.98031/)]
 
 ### 🧰 Tools I Use:
 `Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
