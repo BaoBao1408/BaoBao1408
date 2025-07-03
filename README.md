@@ -1,5 +1,5 @@
 
-## 👋 Hi there, I'm Nguyen Quoc Bao – Morgan
+##                                                                     👋 Hi there, I'm Nguyen Quoc Bao – Morgan
 
 I'm a passionate Data Engineer working with both Azure and AWS. I love turning raw data into business insights using tools like Databricks, Delta Lake, Power BI, Redshift, Glue, and more.
 
