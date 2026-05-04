@@ -1,27 +1,186 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nguyen Quoc Bao - Morgan</h1>
-<h4 align="center">I am a passionate Data Engineer working with both Azure and AWS turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, Power BI, Redshift, Glue, and more Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Quoc%20Bao%20%E2%80%94%20Morgan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Building+production+data+pipelines+%E2%9A%99%EF%B8%8F;Training+Computer+Vision+models+%F0%9F%91%81%EF%B8%8F;Deploying+on+Azure+%7C+AWS+%7C+GCP+%E2%98%81%EF%B8%8F;Airflow+%C3%97+dbt+%C3%97+Spark+%C3%97+YOLO+every+day" alt="Typing SVG" />
 
-### 📌 Portfolio & Resume
-- [[[📄 My Notion Portfolio](https://oxidized-blender-70a.notion.site/This-is-Nguyen-Quoc-Bao-2176c93550c180c2a56dc5ba686c5750)]]
-- [📥 CV (Google Drive)](https://drive.google.com/file/d/.../view)
+</div>
 
-### 📫 Connect with me:
-- 📧 baoquocnguyen1408@gmail.com
-- 💼 [[LinkedIn](https://www.linkedin.com/in/qu%E1%BB%91c-b%E1%BA%A3o-nguy%E1%BB%85n-6459a6307/)]
-- 🎥 [[FaceBook](https://www.facebook.com/quocbao.nguyen.98031/)]
+---
 
-### 🧰 Languages and Tools
-`Azure` `Databricks` `AWS` `Glue S3` `RedShift` `Power BI` `Python` `SQL` `Git` `Linux` `Posgres` `MySQL` `Docker` `DBT` `AirFlow` `Apache Spark` `MongoDB`
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" />
-</p>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
 
+```python
+class MorganNguyen:
+    name       = "Nguyen Quoc Bao (Morgan)"
+    location   = "Ho Chi Minh City, Vietnam 🇻🇳"
+    role       = ["Data Engineer", "AI Engineer (CV)"]
+    focus      = ["ETL/ELT Pipelines", "Computer Vision", "MLOps", "Cloud Architecture"]
+
+    current    = "Building CV systems @ AI Engineer role"
+    learning   = ["TensorRT", "Kafka Streaming", "Kubernetes", "LLM Integration"]
+    goal       = "Bridge the gap between Data Engineering and AI production systems"
+
+    fun_fact   = "I went from scraping 200k products to detecting objects in real-time 🚀"
+```
+
+---
+
+## 🗂️ My Repositories
+
+<div align="center">
+
+| Repository | Description | Stack |
+|:----------:|:------------|:-----:|
+| [![DE](https://img.shields.io/badge/⚙️_Data--Engineer--Projects-FF6B35?style=for-the-badge)](https://github.com/BaoBao1408/Data-Engineer-Projects) | 16 projects · ETL/ELT · Azure · Databricks · dbt · Airflow | `Python` `Spark` `Cloud` |
+| [![AI](https://img.shields.io/badge/🤖_AI--Engineer--Projects-6C63FF?style=for-the-badge)](https://github.com/BaoBao1408/AI-Engineer-Projects) | 3 projects · YOLOv5/v8 · Object Detection · Segmentation · FastAPI | `PyTorch` `YOLO` `CV` |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><strong>⚙️ Data Engineering</strong></summary>
+<br/>
+
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>☁️ Cloud Platforms</strong></summary>
+<br/>
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>🧠 AI / Machine Learning</strong></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-00CCCC?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-6C63FF?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>🗄️ Databases & Storage</strong></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>📦 DevOps & Tools</strong></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BaoBao1408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoBao1408&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaoBao1408&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BaoBao1408&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+|  | Milestone | Detail |
+|--|-----------|--------|
+| ⚙️ | **16 DE Projects** | Airflow · dbt · Databricks · Azure · AWS pipelines |
+| 🤖 | **3 CV Projects** | YOLOv5/v8 Detection · Segmentation · FastAPI serving |
+| ☁️ | **Multi-Cloud** | Azure · AWS · GCP — ingestion to analytics |
+| 🕷️ | **200k+ Records Scraped** | Tiki product catalog at scale |
+| 🚀 | **End-to-End Pipelines** | Raw data → transformation → dashboard delivery |
+| 🔍 | **Real-time Detection** | Object detection + REST API inference endpoint |
+
+</div>
+
+---
+
+## 🧭 Current Focus
+
+```
+✅  Modern Data Stack   →  Airflow + dbt + Databricks + Delta Lake
+✅  Computer Vision     →  YOLOv5 / YOLOv8 Detection & Segmentation
+✅  Cloud Platforms     →  Azure · AWS · GCP production pipelines
+
+🔨  Streaming           →  Kafka + Spark Structured Streaming
+🔨  Model Deployment    →  ONNX + TensorRT + Docker + Cloud Run
+📋  DataOps             →  Great Expectations · dbt tests · CI/CD
+📋  AI + DE Convergence →  Feature Store · ML Pipelines · MLflow
+```
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Quoc%20Bao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BaoBao1408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaoBao1408)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Resume-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BaoBao1408&color=6C63FF&style=flat-square&label=Profile+Views)
+
+*"Building the pipelines that power the future."*
+
+</div>
