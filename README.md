@@ -138,6 +138,7 @@ class MorganNguyen:
 |--|-----------|--------|
 | ⚙️ | **16 DE Projects** | Airflow · dbt · Databricks · Azure · AWS pipelines |
 | 🤖 | **3 CV Projects** | YOLOv5/v8 Detection · Segmentation · FastAPI serving |
+| 🤖 | **5 DA Projects** | Ecommerce · Model Predict · Power BI · Tableau  |
 | ☁️ | **Multi-Cloud** | Azure · AWS · GCP — ingestion to analytics |
 | 🕷️ | **200k+ Records Scraped** | Tiki product catalog at scale |
 | 🚀 | **End-to-End Pipelines** | Raw data → transformation → dashboard delivery |
@@ -166,10 +167,10 @@ class MorganNguyen:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Quoc%20Bao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyen%20Quoc%20Bao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/nguy%E1%BB%85n-qu%E1%BB%91c-b%E1%BA%A3o-morgan-6459a6307/))
 [![GitHub](https://img.shields.io/badge/GitHub-BaoBao1408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BaoBao1408)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Resume-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baoquocnguyen1408@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Resume-6C63FF?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/This-is-Nguyen-Quoc-Bao-2176c93550c180c2a56dc5ba686c5750))
 
 </div>
 
